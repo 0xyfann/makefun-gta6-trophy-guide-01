@@ -1,0 +1,892 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "guide": "Start with the remaining non-platinum entries in this checklist. Once all 54 are earned, compare the result with your PS5 trophy list and check off the platinum when it appears. The kit identifies this as the sole platinum.",
+   "kind": "finish",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "guide": "Follow the story objective labeled Gone Fishing. Check the PS5 list after the mission is recorded as completed. Keep a pre-mission save if it is available to you. The chapter and replay rules are unspecified.",
+   "kind": "story",
+   "missable": true,
+   "risk": "Named mission. Keep a save before it until the unlock is verified.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "guide": "Use the Chapter 1 completion marker as your first numbered checkpoint. Confirm the trophy when the story moves beyond that chapter, and keep the chapter-end save if the trophy has yet to appear.",
+   "kind": "story",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "guide": "Continue from the Chapter 1 finish until Chapter 2 is marked complete. If you are checking your save against the trophy list, verify this milestone separately from any named mission.",
+   "kind": "story",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "guide": "Advance the campaign through the end of Chapter 3. Check for the chapter trophy at that transition so you can identify a missing unlock before moving further.",
+   "kind": "story",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "guide": "Carry the story through the fourth chapter and check that the chapter itself registers as complete. Keep this checkpoint separate from the final mission, which has its own gold trophy.",
+   "kind": "story",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "guide": "Finish the campaign objective the game identifies as the final mission. Park a separate save beforehand if possible, then verify the gold unlock. The list does not identify the finale by title or describe its replay options.",
+   "kind": "story",
+   "missable": true,
+   "risk": "Final mission. Keep a pre-finale save, especially if the game presents a choice.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "guide": "Watch the story objectives for Breakfast Run and verify its completion before leaving the mission sequence. The list gives the mission name without a chapter or start location.",
+   "kind": "story",
+   "missable": true,
+   "risk": "Named mission. Check its completion before progressing.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "guide": "Look for The Cartel Heist in your story objectives. Follow that mission through to its completion result and check PS5 progress there. The chapter placement is undocumented.",
+   "kind": "story",
+   "missable": true,
+   "risk": "Named mission. Save ahead of it if possible.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "guide": "Match the mission heading to Child’s Play, then follow the in-game objectives to the end. Verify the unlock before progressing if you intend to move on immediately.",
+   "kind": "story",
+   "missable": true,
+   "risk": "Named mission. Its replay availability is unknown.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "guide": "When Headliners appears in the campaign, retain a save leading into it if your game permits. Check the completion result and the PS5 trophy together. The list gives no location.",
+   "kind": "story",
+   "missable": true,
+   "risk": "Named mission. Keep its pre-mission save if available.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "guide": "Use the full VCIA Takedown title to identify the required story mission. Check the result on completion. The separate airport trophy is tracked independently.",
+   "kind": "story",
+   "missable": true,
+   "risk": "Named mission. Verify the unlock before moving on.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "guide": "Follow Operation Savage Glory until its completion is recorded. Check the trophy at that point and keep a recent story save if it has yet to unlock. The chapter is unspecified.",
+   "kind": "story",
+   "missable": true,
+   "risk": "Named mission. Replay availability is unknown.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "guide": "Use the in-game completion percentage to guide the final sweep. Recheck unfinished activities and collections against your save, then verify that it reaches 100%. The trophy list gives no full breakdown of what counts.",
+   "kind": "finish",
+   "missable": true,
+   "risk": "Completion dependency. Keep earlier saves while permanent lockouts remain undocumented.",
+   "target": 100,
+   "unit": "% completion",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "guide": "Build toward this during exploration. Check whether each stunt actually increases the PS5 tally and keep a record of successful attempts. The list sets a target of 250 and leaves the repeat rules unstated.",
+   "kind": "activities",
+   "missable": false,
+   "target": 250,
+   "unit": "stunts",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "guide": "Use the game’s activity listings as a checklist and log the first attempt in each type. Spread your attempts across types before repeating favorites. The kit’s starter lists nine types without naming each one.",
+   "kind": "activities",
+   "missable": false,
+   "target": 9,
+   "unit": "activity types",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "guide": "At the Shooting Range, work through the challenge list and record each gold medal. Revisit lower medals before leaving the range sweep. The kit records 42 challenges for this trophy.",
+   "kind": "activities",
+   "missable": false,
+   "target": 42,
+   "unit": "gold medals",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "guide": "Use the Top Fun drone-race listings to track each venue separately. Log a victory against its location and move to a fresh venue. The kit records 14 locations and gives no coordinates.",
+   "kind": "activities",
+   "missable": false,
+   "target": 14,
+   "unit": "drone-race venues",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "guide": "Log your first win against each race title or course entry. Move to a new race after a victory and verify your tally where PS5 exposes it. The official requirement specifies 20 different races.",
+   "kind": "activities",
+   "missable": false,
+   "target": 20,
+   "unit": "distinct race wins",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "guide": "Find the fishing challenge associated with Cal in the game’s activity listings or encounter prompts. Play that challenge and check the result for a win over Cal. The start point and access conditions are unspecified.",
+   "kind": "activities",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "guide": "Choose an arcade game and play through to its completion result. Check PS5 progress before investing time in a second title. The trophy list leaves the cabinet and game title open.",
+   "kind": "activities",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "guide": "Follow Andy’s own line until you reach its finale. Keep a separate save before handing in or starting the final job if possible. A location and mission title are unavailable in the kit.",
+   "kind": "side",
+   "missable": true,
+   "risk": "Named strand finale. Its availability after choices or story progress is unknown.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "guide": "Track Kenton’s jobs together and check later follow-ups when his line pauses. Verify the trophy at the final mission result. The kit does not identify that mission’s location.",
+   "kind": "side",
+   "missable": true,
+   "risk": "Named strand finale. Verify completion before advancing the main story.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "guide": "Keep Billy’s mission chain separate in your notes so you can return to unfinished leads. Check the trophy as soon as you complete his last job. The final job’s title is unspecified.",
+   "kind": "side",
+   "missable": true,
+   "risk": "Named strand finale. Preserve a save before the final hand-off if available.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "guide": "In Leonida, count a stranger only after their full mission chain finishes. Use eight distinct finished lines as your target. Track the character-specific finale trophies separately because the list does not name the eight eligible chains.",
+   "kind": "side",
+   "missable": true,
+   "risk": "Depends on completed strands. Check for unfinished leads at story milestones.",
+   "target": 8,
+   "unit": "stranger strands",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "guide": "Follow Randy’s assignments and preserve a save when his line appears close to its conclusion. Check PS5 when the last assignment is recorded. The published target gives no start marker.",
+   "kind": "side",
+   "missable": true,
+   "risk": "Named strand finale. The story cutoff is unknown.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "guide": "Return to Tyrone when his line offers a continuation and check for the unlock at the final mission result. Note the last completed job if the chain pauses.",
+   "kind": "side",
+   "missable": true,
+   "risk": "Named strand finale. Keep a save before the conclusion if possible.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "guide": "Work through Leonida by region. Log each meditation spot after the interaction completes so you can audit any shortfall. The kit lists 18 sites and supplies no map pins.",
+   "kind": "collectibles",
+   "missable": false,
+   "target": 18,
+   "unit": "meditation spots",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "guide": "Use Bret’s in-game instructions to identify the unique animal before attempting the hunt. Verify that the result satisfies Bret’s objective. The list does not identify the species or location.",
+   "kind": "side",
+   "missable": true,
+   "risk": "Named character request. Keep a save before attempting the unique objective.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "guide": "Sort discovered cards by set and prioritize the sets with the fewest gaps. Check the game’s collection record after finishing each set. The list specifies three completed sets without card locations.",
+   "kind": "collectibles",
+   "missable": false,
+   "target": 3,
+   "unit": "complete card sets",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "guide": "Log each successful WAiNK interaction against a distinct place as you explore. Group your notes by district and use the PS5 tally to identify gaps. The target is 100 locations and the list gives no map.",
+   "kind": "collectibles",
+   "missable": false,
+   "target": 100,
+   "unit": "WAiNK locations",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "guide": "Use completed entries in the in-game challenge list to keep score. After a batch, compare against the PS5 count and focus on challenges still open. The published target is 50.",
+   "kind": "activities",
+   "missable": false,
+   "target": 50,
+   "unit": "completed challenges",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "guide": "Check that your in-game partner is present while the wanted indicator shows exactly four stars. Verify the unlock after the pursuit clears and before switching objectives. The list gives no required district.",
+   "kind": "activities",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "guide": "Treat this as one in-game sequence. Verify partner presence and an active wanted indicator between shop events, and restart the tally if that indicator clears. The list gives no shop locations.",
+   "kind": "activities",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "guide": "Keep a record of vehicles the game counts as new discoveries. Compare the tally after exploring a new region or trying an unfamiliar model. The kit gives a 100-vehicle target without defining discovery rules.",
+   "kind": "collectibles",
+   "missable": false,
+   "target": 100,
+   "unit": "vehicle discoveries",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "guide": "Use the game’s Combat Focus counter and check your result within one activation. Verify that five enemy takedowns were credited before the meter ends. The list gives no required encounter.",
+   "kind": "activities",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "guide": "Start with the airport area identified by VCIA and look for an in-game departure opportunity. Track attempted interactions and check PS5 after leaving. The exact transport and trigger are undocumented.",
+   "kind": "activities",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "guide": "Use “Rhinos” as the clue to watch for during in-game vehicle objectives. Record the game’s prompts and check the trophy after completing a matching objective. The description gives neither the exact action nor location.",
+   "kind": "activities",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "guide": "For the in-game jewelry store objective, watch its detection indicator from the opening interaction through completion. If detection is recorded, check whether the activity can be retried. The list gives no specific store.",
+   "kind": "activities",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "guide": "Track five bank-vault objectives and record each only after the game credits the escape. Check the PS5 tally between attempts. The description does not specify vault locations or whether repeats count.",
+   "kind": "activities",
+   "missable": false,
+   "target": 5,
+   "unit": "vaults and escapes",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "guide": "Use the game’s armored truck activity prompts. Verify that the robbery objective and the subsequent escape have both resolved before ticking this entry. The trophy list gives no route or spawn point.",
+   "kind": "activities",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "guide": "Sweep Leonida by district and note each area as the game credits it. Compare your count with the kit’s 52-area target and return first to unlabeled gaps near region boundaries.",
+   "kind": "collectibles",
+   "missable": false,
+   "target": 52,
+   "unit": "areas explored",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "guide": "Keep one checklist line per gang and log which in-game Illegal Operation gets credited. Aim for every gang represented in the kit’s nine-gang count. The kit provides no gang roster or locations.",
+   "kind": "activities",
+   "missable": false,
+   "target": 9,
+   "unit": "gangs covered",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "guide": "Use Ocean Beach as the confirmed search area. Look for an in-game cocktail interaction with a view and check the trophy when the interaction finishes. The venue and exact prompt are unspecified.",
+   "kind": "activities",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "guide": "Use the vehicle showroom clue to identify the relevant in-game opportunity. Follow any objective prompts and check the trophy after the exit. The list does not identify a particular showroom or vehicle.",
+   "kind": "activities",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "guide": "Use Kolt & Associates as the location clue and look for the bowling interaction there. Check the trophy at the activity result. The official line does not specify a score or result threshold.",
+   "kind": "activities",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "guide": "Watch the story for a partnership moment matching the description. If an unusual joint opportunity appears, note the mission and verify the unlock after it concludes. The trigger and story placement are unverified.",
+   "kind": "story",
+   "missable": true,
+   "risk": "Partnership clue. Preserve a save before unusual one-off partner events.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "guide": "Keep a separate save before consequential in-game decisions when the game allows. The starter records a PSN target of 500. Check whether a choice registers before repeating it, since eligible choices and outcomes are unspecified.",
+   "kind": "story",
+   "missable": true,
+   "risk": "Choice clue. Save before committing to a branch with no obvious return.",
+   "target": 500,
+   "unit": "tracked choices",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "guide": "Use the wording as a clue to examine events with a second attempt. Log what the game credits after a retry and check PS5 progress then. No particular mission or prerequisite is named.",
+   "kind": "story",
+   "missable": true,
+   "risk": "Second-attempt clue. Keep a save around unusual retry opportunities.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "guide": "Preserve a recent save around unusual story encounters and check for this trophy when one resolves. The description gives no location or identifiable event, so an exact trigger remains unverified.",
+   "kind": "story",
+   "missable": true,
+   "risk": "Event clue. Keep a save around one-off encounters where possible.",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "guide": "Check the game’s vehicle and melee controls for the drive-by interaction. Verify that the game credits the knockdown from the vehicle before marking the trophy. No encounter or vehicle model is named.",
+   "kind": "activities",
+   "missable": false,
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "guide": "Track the amount the game credits when you convert Marked Bills through its contact system. Compare the running total with the $250,000 target before ticking it. The list gives no named contact.",
+   "kind": "activities",
+   "missable": false,
+   "target": 250000,
+   "unit": "dollars laundered",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "guide": "Track eligible purchases in in-game shops and compare the spending total with the $100,000 target. Check whether a purchase moves the tally before buying more from the same shop.",
+   "kind": "activities",
+   "missable": false,
+   "target": 100000,
+   "unit": "dollars spent",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "guide": "Keep one line for each purchasable garage and mark it once ownership appears in your game. Cross-check remaining listings against the eight-garage count in the kit.",
+   "kind": "collectibles",
+   "missable": false,
+   "target": 8,
+   "unit": "garage properties",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "guide": "Use the in-game Scooter Bros app and log each vehicle only after a registration is accepted. Compare the tally with the ten-vehicle target. The list gives no eligible model list.",
+   "kind": "collectibles",
+   "missable": false,
+   "target": 10,
+   "unit": "vehicle registrations",
+   "sources": [
+    {
+     "name": "PS5 trophy list · make.fun competition kit (download)",
+     "url": "https://make.fun/c/gta6-trophy-guide-01/kit"
+    }
+   ]
+  }
+ ]
+}
