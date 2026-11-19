@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Leonida Ledger · GTA VI trophy guide</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="data/catalog.js"></script>
+  <script defer src="roadmap.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <div class="shell">
+    <header class="masthead">
+      <div class="brand"><span class="brand-mark" aria-hidden="true">LL</span><span>LEONIDA<span class="soft"> / </span>LEDGER</span></div>
+      <span class="edition">GRAND THEFT AUTO VI <span>·</span> PS5</span>
+    </header>
+    <main>
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-intro">
+          <p class="label">TROPHY GUIDE &amp; OFFLINE TRACKER</p>
+          <h1 id="page-title">Leonida Ledger<span>.</span></h1>
+          <p>Track all 55 trophies and plan your route to platinum.</p>
+        </div>
+        <div class="scoreboard">
+          <div class="score-top"><span class="label">YOUR PROGRESS</span><span id="percentage">0%</span></div>
+          <div class="score-value"><strong id="earned-count">0</strong><span> / 55 earned</span></div>
+          <progress id="progress" value="0" max="55" aria-label="Trophies earned"></progress>
+          <div id="grade-counts" class="grade-counts"></div>
+        </div>
+      </section>
+      <div class="nav-bar">
+        <nav aria-label="Views">
+          <button type="button" id="tracker-tab" aria-pressed="true">Checklist</button>
+          <button type="button" id="roadmap-tab" aria-pressed="false">Platinum roadmap</button>
+        </nav>
+        <div class="utilities">
+          <label class="spoilers"><input type="checkbox" id="spoilers"> Hide story spoilers</label>
+          <button type="button" id="export">Export</button>
+          <button type="button" id="import-button">Import</button>
+          <input type="file" id="import" accept="application/json,.json" hidden>
+        </div>
+      </div>
+      <p id="notice" class="notice" role="status" hidden></p>
+      <section id="tracker" aria-label="Trophy checklist">
+        <div class="controls">
+          <label class="search"><span class="sr-only">Search trophies</span><input type="search" id="search" placeholder="Search trophies…" autocomplete="off"></label>
+          <div class="type-filters" id="kind-filters" role="group" aria-label="Filter by trophy type"></div>
+          <label class="select-label">Status <select id="status-filter"><option value="all">All</option><option value="pending">To do</option><option value="earned">Earned</option></select></label>
+          <label class="select-label">Grade <select id="grade-filter"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
+        </div>
+        <div class="tracker-grid">
+          <div class="list-pane">
+            <div class="list-head"><h2>Trophy checklist</h2><span id="result-count" aria-live="polite"></span></div>
+            <ul id="trophy-list" class="trophy-list"></ul>
+            <p id="empty" class="empty" hidden></p>
+          </div>
+          <aside id="guide" class="guide-pane" aria-label="Selected trophy guide"></aside>
+        </div>
+      </section>
+      <section id="roadmap" aria-label="Platinum roadmap" hidden></section>
+      <noscript>Enable JavaScript to use the checklist and roadmap.</noscript>
+    </main>
+    <footer>Unofficial companion <span>·</span> PlayStation trophy list supplied by the make.fun competition kit</footer>
+  </div>
+</body>
+</html>
